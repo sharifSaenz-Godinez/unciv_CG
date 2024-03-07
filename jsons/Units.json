@@ -1,16 +1,16 @@
 [
 	{
-		"name": "Phasers",
+		"name": "Glasgow",
 		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "Holy Britannian Empire",
 		"replaces": "Machine Gun",
 		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
+		"strength": 50,
+		"rangedStrength": 90,
+		"range": 3,
 		"cost": 500,
 		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
+		"requiredResource": "Iron",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	}
